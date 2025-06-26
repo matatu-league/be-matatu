@@ -1,4 +1,0 @@
-app = "matatuz"
-
-[build]
-  builder = "heroku/builder:22"
