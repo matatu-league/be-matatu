@@ -1,0 +1,85 @@
+{
+  "gameId": "a51c3383f1373196fb232ad5",
+  "players": {
+    "t2MhZVmRGKeGa10aEYFi4P9aDCi1": [
+      { "v": 10, "s": "H" },
+      { "v": 8, "s": "D" },
+      { "v": 7, "s": "D" },
+      { "v": 11, "s": "H" },
+      { "v": 8, "s": "S" },
+      { "v": 4, "s": "S" },
+      { "v": 6, "s": "S" }
+    ],
+    "iHMzzte0vLZG4QTbWbQS8wYdve22": [
+      { "v": 9, "s": "C" },
+      { "v": 50, "s": "R" },
+      { "v": 3, "s": "D" },
+      { "v": 5, "s": "C" },
+      { "v": 13, "s": "D" },
+      { "v": 11, "s": "C" },
+      { "v": 15, "s": "H" }
+    ]
+  },
+  "status": "ACTIVE",
+  "userId": "t2MhZVmRGKeGa10aEYFi4P9aDCi1",
+  "currentTurn": "t2MhZVmRGKeGa10aEYFi4P9aDCi1",
+  "cuttingCard": { "v": 2, "s": "D" },
+  "deck": [
+    { "v": 7, "s": "C" },
+    { "v": 15, "s": "D" },
+    { "v": 5, "s": "S" },
+    { "v": 2, "s": "H" },
+    { "v": 6, "s": "H" },
+    { "v": 5, "s": "D" },
+    { "v": 9, "s": "D" },
+    { "v": 3, "s": "S" },
+    { "v": 7, "s": "S" },
+    { "v": 3, "s": "H" },
+    { "v": 3, "s": "C" },
+    { "v": 4, "s": "C" },
+    { "v": 12, "s": "S" },
+    { "v": 6, "s": "C" },
+    { "v": 13, "s": "H" },
+    { "v": 15, "s": "S" },
+    { "v": 5, "s": "H" },
+    { "v": 9, "s": "H" },
+    { "v": 6, "s": "D" },
+    { "v": 8, "s": "H" },
+    { "v": 4, "s": "D" },
+    { "v": 50, "s": "B" },
+    { "v": 11, "s": "D" },
+    { "v": 8, "s": "C" },
+    { "v": 10, "s": "D" },
+    { "v": 2, "s": "S" },
+    { "v": 12, "s": "C" },
+    { "v": 2, "s": "C" },
+    { "v": 9, "s": "S" },
+    { "v": 10, "s": "C" },
+    { "v": 12, "s": "H" },
+    { "v": 13, "s": "C" },
+    { "v": 15, "s": "C" },
+    { "v": 13, "s": "S" },
+    { "v": 7, "s": "H" },
+    { "v": 4, "s": "H" },
+    { "v": 10, "s": "S" },
+    { "v": 11, "s": "S" },
+    { "v": 12, "s": "D" }
+  ],
+  "playedCards": [],
+  "currentCard": null,
+  "chosenSuit": null,
+  "ready": {},
+  "meta": {
+    "iHMzzte0vLZG4QTbWbQS8wYdve22": {
+      "username": "halimah",
+      "avatar": 5,
+      "balance": 5
+    },
+    "t2MhZVmRGKeGa10aEYFi4P9aDCi1": {
+      "username": "swaibu",
+      "avatar": 40,
+      "balance": 10
+    }
+  },
+  "createdAt": "2025-05-23T03:15:08.117Z"
+}

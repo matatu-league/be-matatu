@@ -1,0 +1,2 @@
+#!/bin/bash
+ngrok http --domain=simple-maggot-expert.ngrok-free.app 3000

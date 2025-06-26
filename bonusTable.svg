@@ -1,0 +1,65 @@
+<svg width="197" height="236" viewBox="0 0 197 236" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_1125_30)">
+<rect y="16" width="197" height="216" rx="20" fill="#37251B"/>
+</g>
+<g filter="url(#filter1_d_1125_30)">
+<rect x="15" width="165" height="28" rx="14" fill="#4F2F17"/>
+</g>
+<text fill="#BBBBBB" xml:space="preserve" style="white-space: pre" font-family="Racing Sans One" font-size="18" letter-spacing="0em"><tspan x="40" y="18.728">weekly Bonus</tspan></text>
+<text fill="#C9C1C1" xml:space="preserve" style="white-space: pre" font-family="Russo One" font-size="18" letter-spacing="0em"><tspan x="28" y="78.823"># 1              + 50K</tspan></text>
+<text fill="#C9C1C1" xml:space="preserve" style="white-space: pre" font-family="Russo One" font-size="18" letter-spacing="0em"><tspan x="28" y="105.823"># 2             + 25K</tspan></text>
+<text fill="#C9C1C1" xml:space="preserve" style="white-space: pre" font-family="Russo One" font-size="18" letter-spacing="0em"><tspan x="28" y="132.823"># 3             + 10K</tspan></text>
+<text fill="#C9C1C1" xml:space="preserve" style="white-space: pre" font-family="Russo One" font-size="18" letter-spacing="0em"><tspan x="28" y="183.823"># 4 - 10     + 100</tspan></text>
+<text fill="#C9C1C1" xml:space="preserve" style="white-space: pre" font-family="Russo One" font-size="18" letter-spacing="0em"><tspan x="28" y="212.823"># 11 - 20    + 50</tspan></text>
+<g filter="url(#filter2_d_1125_30)">
+<rect x="14" y="144" width="172" height="17" rx="8.5" fill="#D9D9D9" fill-opacity="0.8"/>
+<text fill="#1A1919" xml:space="preserve" style="white-space: pre" font-family="Racing Sans One" font-size="14" letter-spacing="0em"><tspan x="28" y="156.844">Pos.</tspan></text>
+<text fill="#1A1919" xml:space="preserve" style="white-space: pre" font-family="Racing Sans One" font-size="14" letter-spacing="0em"><tspan x="127" y="156.844">Points</tspan></text>
+</g>
+<g filter="url(#filter3_d_1125_30)">
+<rect x="14" y="39" width="172" height="17" rx="8.5" fill="#D9D9D9" fill-opacity="0.8"/>
+<text fill="#1A1919" xml:space="preserve" style="white-space: pre" font-family="Racing Sans One" font-size="14" letter-spacing="0em"><tspan x="28" y="51.844">Pos.</tspan></text>
+<text fill="#1E1D1D" xml:space="preserve" style="white-space: pre" font-family="Racing Sans One" font-size="14" letter-spacing="0em"><tspan x="127" y="51.844">Points</tspan></text>
+</g>
+<defs>
+<filter id="filter0_d_1125_30" x="0" y="16" width="197" height="220" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1125_30"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1125_30" result="shape"/>
+</filter>
+<filter id="filter1_d_1125_30" x="11" y="0" width="173" height="36" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1125_30"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1125_30" result="shape"/>
+</filter>
+<filter id="filter2_d_1125_30" x="10" y="144" width="180" height="25" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1125_30"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1125_30" result="shape"/>
+</filter>
+<filter id="filter3_d_1125_30" x="10" y="39" width="180" height="25" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1125_30"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1125_30" result="shape"/>
+</filter>
+</defs>
+</svg>
